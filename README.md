@@ -15,3 +15,5 @@ ver 1.1
 
 If you push image on canvas, then canvas size changing.
 I want canvas size is same.
+
+and want to add image modifying function.
