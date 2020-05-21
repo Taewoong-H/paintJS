@@ -10,6 +10,25 @@ body {
   padding: 50px 0;
 }
 
+.canvas_size {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+}
+
+.width-container,
+.height-container {
+  margin: 5px;
+}
+
+input.width {
+  width: 35.5px;
+}
+
+input.height {
+  width: 30px;
+}
+
 .img_upload {
   margin-bottom: 10px;
 }
